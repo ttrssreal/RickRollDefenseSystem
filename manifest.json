@@ -1,10 +1,10 @@
 {
 
     "manifest_version": 2,
-    "name": "Borderify",
+    "name": "Rick Roll Defense System",
     "version": "1.0",
   
-    "description": "desc",
+    "description": "An end to being rickrolled.",
   
     "icons": {
       "48": "ico.png"
